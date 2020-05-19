@@ -8,4 +8,5 @@ Details on how to use: Home is a simple high level description of what we're abo
 Technologies used: HTML, CSS  
 
 Ideas for future improvement:  
-(1) Perhaps use a better font for the main body text throughout the site. (2) Perhaps consider paying for stock photos of Chile and LatAm. (3) Would love to include a log-in section for current clients to manage their respective engagements and save engagement-related documents there. 
+(1) Perhaps use a better font for the main body text throughout the site.  
+(2) Perhaps consider paying for stock photos of Chile and LatAm. (3) Would love to include a log-in section for current clients to manage their respective engagements and save engagement-related documents there. 
