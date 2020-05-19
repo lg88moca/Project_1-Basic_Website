@@ -13,3 +13,4 @@ Ideas for future improvement:
 (1) Perhaps use a better font for the main body text throughout the site.  
 (2) Perhaps consider paying for stock photos of Chile and LatAm.   
 (3) Would love to include a log-in section for current clients to manage their respective engagements and save engagement-related documents there. 
+(4) Would love to include a market update section on the front page.
